@@ -2,122 +2,55 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+I am a Research Fellow at Microsoft. I work with [Gustavo Soares](https://www.microsoft.com/en-us/research/people/gsoares/){:target="_blank"}, [Arjun Radhakrishnan](https://www.microsoft.com/en-us/research/people/arradha/){:target="_blank"}, and other collaborators at the [PROSE Team](https://www.microsoft.com/en-us/research/group/prose/){:target="_blank"} led by [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/){:target="_blank"}.
 
-There should be whitespace between paragraphs.
+I am currently developing an LLM based AI systems that automates software developer tasks. I am exploring how AI systems can reason, plan, and adapt to complex tasks with human-like flexibility. This involves using language models, cognitive sciences, and autonomous reasoning. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+`I am currently applying for Fall'25 PhD positions. Reach out to me on my ` [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
 
-# Header 1
+Previously at PROSE, I have worked on an agentic conversational debugger, now deployed on the Visual Studio (VS) IDE, as well as on the automatic evaluation of Human-AI conversations, which is currently used to evaluate multiple AI assistants across VS IDE and GitHub Copilot.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Before PROSE, I have worked at Adobe as a Java Backend Software Developer, at American Express AI Labs on building their internal gradient boosting models under [Narayanan Edakunni](https://scholar.google.com/citations?user=qI7tWCsAAAAJ&hl=en){:target="_blank"}, and at Speech and Language Lab, NTU Singapore under [Chng Eng Siong](https://aseschng.github.io/intro1.html){:target="_blank"}, working on vision transformers for speech detection. I did my undergrad in computer science at BITS Goa.
 
-## Header 2
+I also like to swim, dive, and play grand strategy video games.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Check out my [CV]({{ '/assets/Resume_Dec24.pdf' | relative_url }}){:target="_blank"}, reach me through [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
 
-### Header 3
+<br>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Publications [<img src="assets\img\logos\google_scholar.png" alt="google-scholar" target="_blank" width="20" height="20">](https://scholar.google.com/citations?user=BdfgjTwAAAAJ&hl=en){:target="_blank"}
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<div>
+    <p class="paper">
+        <span class="badge"> 🏆 Best Paper Presentation Award </span><br>
+        <a class="paperlink" href="https://dl.acm.org/doi/10.1145/3664646.3664778" target="_blank"><span class="papertitle">RUBICON: Rubric-Based Evaluation of Domain-Specific Human AI Conversations</span></a><br>
+        <span class="thisauthor">Param Biyani</span>, Yasharth Bajpai, Arjun Radhakrishna, Gustavo Soares, Sumit Gulwani<br>
+        <span class="confshort">AIware 2024</span> |
+            AIware: Proceedings of the 1st ACM International Conference on AI-Powered Software (co-located with FSE 2024)<br>
+        <a class="tag" href="https://www.microsoft.com/en-us/research/blog/rubicon-evaluating-conversations-between-humans-and-ai-systems/" target="_blank">blog</a>
+        <span class="tagsep">|</span>
+        <a class="tag" href="https://www.microsoft.com/en-us/research/uploads/prod/2024/05/RUBICON__Rubric_Based_Evaluation_of_Domain_Specific_Human_AI_Conversations-10.pdf" target="_blank">pdf</a>
+        <span class="tagsep">|</span>
+        <a class="tag" href="https://www.microsoft.com/en-us/research/publication/rubicon-rubric-based-evaluation-of-domain-specific-human-ai-conversations/" target="_blank">web</a>
+    </p>
+</div>
 
-#### Header 4
+<div>
+    <p class="paper">
+        <span class="badge"> 🏆 Best Paper Award </span><br>
+        <a class="paperlink" href="https://www.microsoft.com/en-us/research/publication/lets-fix-this-together-conversational-debugging-with-github-copilot/" target="_blank"><span class="papertitle">Let’s Fix this Together: Conversational Debugging with GitHub Copilot</span></a><br>
+        Yasharth Bajpai, Bhavya Chopra, <span class="thisauthor">Param Biyani</span>, Cagri Aslan, Sumit Gulwani, Dustin Coleman, Chris Parnin, Arjun Radhakrishna, Gustavo Soares<br>
+        <span class="confshort">VL/HCC 2024</span> | IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)<br>
+    </p>
+</div>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<div>
+    <p class="paper">
+        <a class="paperlink" href="https://arxiv.org/abs/2402.06229" target="_blank"><span class="papertitle"> Exploring Interaction Patterns for Debugging: Enhancing Conversational Capabilities of AI-assistants</span></a><br>
+        Bhavya Chopra, Yasharth Bajpai, <span class="thisauthor">Param Biyani</span>, Gustavo Soares, Arjun Radhakrishna, Chris Parnin, and Sumit Gulwani<br>
+        <span class="confshort">NAACL Workshop 2024</span> | NAACL: Proceedings of the Third Workshop on Bridging Human-Computer Interaction and Natural Language Processing <br>
+    </p>
+</div>
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<br>

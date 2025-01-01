@@ -15,10 +15,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><t href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</t></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="profile"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -31,13 +31,11 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
+        <p><a small href="{{ '/assets/Resume_Dec24.pdf' | relative_url }}" target="_blank">CV</a small></p>
+        <p><a small href="https://scholar.google.com/citations?user=BdfgjTwAAAAJ&hl=en" target="_blank">Google Scholar</a small></p>
+        <p><a small href="mailto:{{'parambiyani8@gmail.com'}}" target="_blank">Email</a small></p>
+        <p><a small href="https://github.com/prmbiy" target="_blank">GitHub</a small></p>
+        <p><a small href="www.linkedin.com/in/param-biyani" target="_blank">LinkedIn</a small></p>
       </header>
       <section>
 
@@ -48,9 +46,34 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
+  <style>
+    header {
+      margin-bottom: 20px; /* Add spacing between the logo and content */
+    }
+
+    header img {
+      margin-bottom: 40px; /* Add spacing between the logo and other content */
+    }
+
+    header p {
+      margin: 5px 0;
+    }
+
+    header a {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 16px;
+      /* color: #000; */
+      text-decoration: none;
+    }
+
+    header a:hover {
+      text-decoration: underline; /* Optional: Add underline on hover */
+    }
+  </style>
 </html>

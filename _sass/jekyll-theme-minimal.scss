@@ -3,10 +3,11 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding:150px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  text-align:justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,18 +46,25 @@ a:hover, a:focus {
 }
 
 a small {
-  font-size:11px;
-  color:#777;
-  margin-top:-0.3em;
+  font-size:16px;
+  // color:#777;
+  // margin-top:-0.3em;
+  margin-bottom: 4px;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  // color:#777;
+  text-decoration: underline;
+}
+
+.paperlink {
+  color:#000000;
+  text-decoration:none;
 }
 
 .wrapper {
-  width:860px;
+  width:1000px;
   margin:0 auto;
 }
 
@@ -102,6 +110,13 @@ th {
 
 img {
   max-width:100%;
+}
+
+.profile{
+  margin-top:20px;
+  max-width:69%;
+  border-radius: 50%;
+  border: 2.5px solid rgb(84 61 133 / 75%)
 }
 
 kbd {
@@ -186,7 +201,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:650px;
   float:right;
   padding-bottom:50px;
 }
@@ -283,4 +298,56 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.badge {
+  display: inline-block;
+  padding: .4em .4em;
+  font-size: 90%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+  color: #000000; /* white color */
+  background-color: #FFD700; /* gold background */
+  margin-bottom: 2px;
+}
+
+.papertitle{
+  color: #000000;
+  font-size:12pt;
+  font-weight:700;
+  text-decoration:"none";
+  font-style:"black";
+}
+
+.thisauthor{
+  color: #000000;
+  font-weight:500;
+  text-decoration:"none";
+  font-style:"black";
+}
+
+.confshort {
+  font-style:"black";
+  font-weight:500;
+}
+
+.conf {
+  display: inline-block;
+  padding-bottom: 4px;
+}
+
+// .paper {
+//     // border-left: 1px solid #ddd;
+// }
+
+.tagsep {
+  padding: 4px;
+}
+
+.tag {
+  padding-right: 2px;
 }
