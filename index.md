@@ -7,8 +7,6 @@ I am a Research Fellow at Microsoft. I work with [Gustavo Soares](https://www.mi
 
 I am currently developing an LLM based AI systems that automates software developer tasks. I aim to study how AI systems can reason, plan, and adapt to complex tasks with human-like flexibility. This involves using language models, cognitive sciences, and autonomous reasoning. 
 
-`I am currently applying for Fall'25 PhD positions. Reach out to me on my ` [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
-
 Previously at PROSE, I have worked on an agentic conversational debugger, now deployed on the Visual Studio (VS) IDE, as well as on the automatic evaluation of Human-AI conversations, which is currently used to evaluate multiple AI assistants across VS IDE and GitHub Copilot.
 
 Before PROSE, I have worked at Adobe as a Java Backend Software Developer, at American Express AI Labs on building their internal gradient boosting models under [Narayanan Edakunni](https://scholar.google.com/citations?user=qI7tWCsAAAAJ&hl=en){:target="_blank"}, and at Speech and Language Lab, NTU Singapore under [Chng Eng Siong](https://aseschng.github.io/intro1.html){:target="_blank"}, working on vision transformers for speech detection. I did my undergrad in computer science at BITS Goa.
