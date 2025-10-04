@@ -5,15 +5,14 @@ layout: default
 
 I am a Research Fellow at Microsoft. I work with [Gustavo Soares](https://www.microsoft.com/en-us/research/people/gsoares/){:target="_blank"}, [Arjun Radhakrishnan](https://www.microsoft.com/en-us/research/people/arradha/){:target="_blank"}, and other collaborators at the [PROSE Team](https://www.microsoft.com/en-us/research/group/prose/){:target="_blank"} led by [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/){:target="_blank"}.
 
-I am currently developing an LLM based AI systems that automates software developer tasks. I aim to study how AI systems can reason, plan, and adapt to complex tasks with human-like flexibility. This involves using language models, cognitive sciences, and autonomous reasoning. 
+My research focuses on how AI systems can reason, plan, and adapt to complex tasks with human-like flexibility. I study this through the lens of language models, cognitive science, and autonomous reasoning, with particular interest in AI4Code, AI4Math, and the formal verification of LLM generations. Currently, I am building IndiMathBench, a Lean4 benchmark to evaluate formal theorem proving on Olympiad Math problems, and a human-in-the-loop system for autoformalization.
 
-Previously at PROSE, I have worked on an agentic conversational debugger, now deployed on the Visual Studio (VS) IDE, as well as on the automatic evaluation of Human-AI conversations, which is currently used to evaluate multiple AI assistants across VS IDE and GitHub Copilot.
+At PROSE, I worked on developing an end-to-end LLM based software agent. I helped design the conversational debugger, now deployed in Visual Studio IDE, as well as the automatic evaluation of Human-AI conversations, which is currently used to evaluate multiple AI assistants across VS IDE and GitHub Copilot. Before PROSE, I worked at Adobe as a Software Developer, and interned American Express AI Labs, under [Narayanan Edakunni](https://scholar.google.com/citations?user=qI7tWCsAAAAJ&hl=en){:target="_blank"}, and at Speech and Language Lab, NTU Singapore under [Chng Eng Siong](https://aseschng.github.io/intro1.html){:target="_blank"}. I did my undergrad in computer science at BITS Goa.
 
-Before PROSE, I have worked at Adobe as a Java Backend Software Developer, at American Express AI Labs on building their internal gradient boosting models under [Narayanan Edakunni](https://scholar.google.com/citations?user=qI7tWCsAAAAJ&hl=en){:target="_blank"}, and at Speech and Language Lab, NTU Singapore under [Chng Eng Siong](https://aseschng.github.io/intro1.html){:target="_blank"}, working on vision transformers for speech detection. I did my undergrad in computer science at BITS Goa.
+Outside of research, I like to swim, dive, read mangas, and play grand strategy video games.
 
-I also like to swim, dive, read mangas, and play grand strategy video games.
+Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, reach me through [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
 
-Check out my [CV]({{ '/assets/Resume_Dec24.pdf' | relative_url }}){:target="_blank"}, reach me through [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
 
 <br>
 
