@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 I am a Research Fellow at Microsoft. I work with [Gustavo Soares](https://www.microsoft.com/en-us/research/people/gsoares/){:target="_blank"}, [Arjun Radhakrishnan](https://www.microsoft.com/en-us/research/people/arradha/){:target="_blank"}, and other collaborators at the [PROSE Team](https://www.microsoft.com/en-us/research/group/prose/){:target="_blank"} led by [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/){:target="_blank"}.
 
 My research focuses on how AI systems can reason, plan, and adapt to complex tasks with human-like flexibility. I study this through the lens of language models, cognitive science, and autonomous reasoning, with particular interest in AI4Code, AI4Math, and the formal verification of LLM generations. Currently, I am building IndiMathBench, a Lean4 benchmark to evaluate formal theorem proving on Olympiad Math problems, and a human-in-the-loop system for autoformalization.
@@ -13,8 +12,6 @@ Outside of research, I like to swim, dive, read mangas, and play grand strategy 
 
 Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, reach me through [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
 
-
-<br>
 
 # Publications [<img src="assets\img\logos\google_scholar.png" alt="google-scholar" target="_blank" width="20" height="20">](https://scholar.google.com/citations?user=BdfgjTwAAAAJ&hl=en){:target="_blank"}
 
