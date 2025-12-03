@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Research Fellow at Microsoft. I work with [Gustavo Soares](https://www.microsoft.com/en-us/research/people/gsoares/){:target="_blank"}, [Arjun Radhakrishnan](https://www.microsoft.com/en-us/research/people/arradha/){:target="_blank"}, [Ashish Tiwari](https://www.microsoft.com/en-us/research/people/astiwar/) and other collaborators at the [PROSE Team](https://www.microsoft.com/en-us/research/group/prose/){:target="_blank"} led by [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/){:target="_blank"}.
+I am a pre-doctoral Research Fellow at Microsoft. I work with [Gustavo Soares](https://www.microsoft.com/en-us/research/people/gsoares/){:target="_blank"}, [Arjun Radhakrishnan](https://www.microsoft.com/en-us/research/people/arradha/){:target="_blank"}, [Ashish Tiwari](https://www.microsoft.com/en-us/research/people/astiwar/) and other collaborators at the [PROSE Team](https://www.microsoft.com/en-us/research/group/prose/){:target="_blank"} led by [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/){:target="_blank"}.
 
 My research focuses on how AI systems can write correct and verifiable code, and reason with human-like flexibility. I study this through the lens of **Software Engineering**, **Artificial Intelligence**, **Formal Methods**, and cognitive science. Much of my work sits in **AI4Code**, **AI4Math**, and **Human-AI Interaction**, with an emphasis on structured and verifiable reasoning. Recently, I built [IndiMathBench](https://github.com/prmbiy/IndiMathBench), a Lean4 benchmark to evaluate formal theorem proving on Olympiad Math problems, and a human-in-the-loop system for autoformalization.
 
