@@ -21,7 +21,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
             <span class="papertitle">IndiMathBench: Autoformalizing Mathematical Reasoning Problems with a Human Touch</span>
         </a><br>
         <span class="thisauthor">Param Biyani</span>, Shashank Kirtania, Yasharth Bajpai, Sumit Gulwani, Ashish Tiwari<br>
-        <span class="confshort" style="color: black;">Workshop P-AI-FM AAAI 2026</span> | AAAI Workshop on Post-AI Formal Methods (P-AI-FM); Under Submission ICLR 2026<br>
+        <span class="confshort" style="color: black;">P-AI-FM AAAI 2026</span> | AAAI Workshop on Post-AI Formal Methods (P-AI-FM); Under Submission ICLR 2026<br>
         <a class="tag" href="https://arxiv.org/abs/2512.00997" target="_blank">pdf</a>
         <span class="tagsep">|</span>
         <a class="tag" href="https://github.com/prmbiy/IndiMathBench" target="_blank">code</a>
@@ -34,7 +34,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
             <span class="papertitle">Improving Language Agents Through BREW</span>
         </a><br>
         Shashank Kirtania, <span class="thisauthor">Param Biyani</span>, Priyanshu Gupta, Yasharth Bajpai, Roshni Iyer, Sumit Gulwani, Gustavo Soares<br>
-        <span class="confshort" style="color: black;">Workshop MTI-LLM NeurIPS 2025</span> | NeurIPS Workshop on Model Training & Inference for LLMs; Under Submission ICLR 2026<br>
+        <span class="confshort" style="color: black;">MTI-LLM NeurIPS 2025</span> | NeurIPS Workshop on Model Training & Inference for LLMs; Under Submission ICLR 2026<br>
         <a class="tag" href="https://arxiv.org/abs/2511.20297" target="_blank">pdf</a>
     </p>
 </div>
@@ -67,7 +67,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
     <p class="paper">
         <a class="paperlink" href="https://arxiv.org/abs/2402.06229" target="_blank"><span class="papertitle"> Exploring Interaction Patterns for Debugging: Enhancing Conversational Capabilities of AI-assistants</span></a><br>
         Bhavya Chopra, Yasharth Bajpai, <span class="thisauthor">Param Biyani</span>, Gustavo Soares, Arjun Radhakrishna, Chris Parnin, and Sumit Gulwani<br>
-        <span class="confshort" style="color: black;">Workshop HCI-NLP NAACL 2024</span> | NAACL: Proceedings of the Third Workshop on Bridging Human-Computer Interaction and Natural Language Processing <br>
+        <span class="confshort" style="color: black;">HCI-NLP NAACL 2024</span> | NAACL: Proceedings of the Third Workshop on Bridging Human-Computer Interaction and Natural Language Processing <br>
     </p>
 </div>
 
