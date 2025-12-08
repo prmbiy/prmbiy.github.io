@@ -21,7 +21,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
             <span class="papertitle">IndiMathBench: Autoformalizing Mathematical Reasoning Problems with a Human Touch</span>
         </a><br>
         <span class="thisauthor">Param Biyani</span>, Shashank Kirtania, Yasharth Bajpai, Sumit Gulwani, Ashish Tiwari<br>
-        <span class="confshort" style="color: black;">P-AI-FM AAAI 2026</span> | AAAI Workshop on Post-AI Formal Methods (P-AI-FM); Under Submission ICLR 2026<br>
+        <span class="confshort" style="color: black;">P-AI-FM AAAI 2026</span> | AAAI 2026 Workshop on Post-AI Formal Methods (P-AI-FM); Under Submission ICLR 2026<br>
         <a class="tag" href="https://arxiv.org/abs/2512.00997" target="_blank">pdf</a>
         <span class="tagsep">|</span>
         <a class="tag" href="https://github.com/prmbiy/IndiMathBench" target="_blank">code</a>
@@ -34,7 +34,8 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
             <span class="papertitle">Improving Language Agents Through BREW</span>
         </a><br>
         Shashank Kirtania, <span class="thisauthor">Param Biyani</span>, Priyanshu Gupta, Yasharth Bajpai, Roshni Iyer, Sumit Gulwani, Gustavo Soares<br>
-        <span class="confshort" style="color: black;">MTI-LLM NeurIPS 2025</span> | NeurIPS Workshop on Model Training & Inference for LLMs; Under Submission ICLR 2026<br>
+        <span class="confshort" style="color: black;">MTI-LLM NeurIPS 2025</span> | NeurIPS 2025 Workshop on
+Multi-Turn Interactions in Large Language Models; Under Submission ICLR 2026<br>
         <a class="tag" href="https://arxiv.org/abs/2511.20297" target="_blank">pdf</a>
     </p>
 </div>
@@ -45,7 +46,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
         <a class="paperlink" href="https://dl.acm.org/doi/10.1145/3664646.3664778" target="_blank"><span class="papertitle">RUBICON: Rubric-Based Evaluation of Domain-Specific Human AI Conversations</span></a><br>
         <span class="thisauthor">Param Biyani</span>, Yasharth Bajpai, Arjun Radhakrishna, Gustavo Soares, Sumit Gulwani<br>
         <span class="confshort" style="color: black;">AIware 2024</span> |
-            AIware: Proceedings of the 1st ACM International Conference on AI-Powered Software (co-located with FSE 2024)<br>
+            AIware: Proceedings of the 1st ACM International Conference on AI-Powered Software 2024 (co-located with FSE 2024)<br>
         <a class="tag" href="https://www.microsoft.com/en-us/research/blog/rubicon-evaluating-conversations-between-humans-and-ai-systems/" target="_blank">blog</a>
         <span class="tagsep">|</span>
         <a class="tag" href="https://www.microsoft.com/en-us/research/uploads/prod/2024/05/RUBICON__Rubric_Based_Evaluation_of_Domain_Specific_Human_AI_Conversations-10.pdf" target="_blank">pdf</a>
@@ -59,7 +60,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
         <span class="badge"> 🏆 Best Paper Award </span><br>
         <a class="paperlink" href="https://www.microsoft.com/en-us/research/publication/lets-fix-this-together-conversational-debugging-with-github-copilot/" target="_blank"><span class="papertitle">Let’s Fix this Together: Conversational Debugging with GitHub Copilot</span></a><br>
         Yasharth Bajpai, Bhavya Chopra, <span class="thisauthor">Param Biyani</span>, Cagri Aslan, Sumit Gulwani, Dustin Coleman, Chris Parnin, Arjun Radhakrishna, Gustavo Soares<br>
-        <span class="confshort" style="color: black;">VL/HCC 2024</span> | IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)<br>
+        <span class="confshort" style="color: black;">VL/HCC 2024</span> | IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC) 2024<br>
     </p>
 </div>
 
@@ -67,7 +68,7 @@ Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, 
     <p class="paper">
         <a class="paperlink" href="https://arxiv.org/abs/2402.06229" target="_blank"><span class="papertitle"> Exploring Interaction Patterns for Debugging: Enhancing Conversational Capabilities of AI-assistants</span></a><br>
         Bhavya Chopra, Yasharth Bajpai, <span class="thisauthor">Param Biyani</span>, Gustavo Soares, Arjun Radhakrishna, Chris Parnin, and Sumit Gulwani<br>
-        <span class="confshort" style="color: black;">HCI-NLP NAACL 2024</span> | NAACL: Proceedings of the Third Workshop on Bridging Human-Computer Interaction and Natural Language Processing <br>
+        <span class="confshort" style="color: black;">HCI-NLP NAACL 2024</span> | NAACL 2024: Proceedings of the Third Workshop on Bridging Human-Computer Interaction and Natural Language Processing <br>
     </p>
 </div>
 
