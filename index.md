@@ -61,6 +61,7 @@ Multi-Turn Interactions in Large Language Models; Under Submission ICLR 2026<br>
         <a class="paperlink" href="https://www.microsoft.com/en-us/research/publication/lets-fix-this-together-conversational-debugging-with-github-copilot/" target="_blank"><span class="papertitle">Let’s Fix this Together: Conversational Debugging with GitHub Copilot</span></a><br>
         Yasharth Bajpai, Bhavya Chopra, <span class="thisauthor">Param Biyani</span>, Cagri Aslan, Sumit Gulwani, Dustin Coleman, Chris Parnin, Arjun Radhakrishna, Gustavo Soares<br>
         <span class="confshort" style="color: black;">VL/HCC 2024</span> | IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC) 2024<br>
+        <a class="tag" href="https://www.microsoft.com/en-us/research/publication/lets-fix-this-together-conversational-debugging-with-github-copilot/" target="_blank">pdf</a>
     </p>
 </div>
 
@@ -69,6 +70,7 @@ Multi-Turn Interactions in Large Language Models; Under Submission ICLR 2026<br>
         <a class="paperlink" href="https://arxiv.org/abs/2402.06229" target="_blank"><span class="papertitle"> Exploring Interaction Patterns for Debugging: Enhancing Conversational Capabilities of AI-assistants</span></a><br>
         Bhavya Chopra, Yasharth Bajpai, <span class="thisauthor">Param Biyani</span>, Gustavo Soares, Arjun Radhakrishna, Chris Parnin, and Sumit Gulwani<br>
         <span class="confshort" style="color: black;">HCI-NLP NAACL 2024</span> | NAACL 2024: Proceedings of the Third Workshop on Bridging Human-Computer Interaction and Natural Language Processing <br>
+        <a class="tag" href="https://arxiv.org/abs/2402.06229" target="_blank">pdf</a>
     </p>
 </div>
 
