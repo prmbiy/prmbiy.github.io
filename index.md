@@ -10,7 +10,7 @@ At PROSE, I worked on developing an end-to-end LLM based software agent. I also 
 
 Outside of research, I like to swim, dive, read mangas, and play grand strategy video games.
 
-Check out my [CV]({{ '/assets/resume.pdf' | relative_url }}){:target="_blank"}, reach me through [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
+Check out my [CV]({{ '/assets/resume_param_biyani_mar_2026.pdf' | relative_url }}){:target="_blank"}, reach me through [email](mailto:parambiyani8@gmail.com){:target="_blank"}.
 
 
 # Publications [<img src="assets\img\logos\google_scholar.png" alt="google-scholar" target="_blank" width="20" height="20">](https://scholar.google.com/citations?user=BdfgjTwAAAAJ&hl=en){:target="_blank"}
@@ -49,9 +49,8 @@ Multi-Turn Interactions in Large Language Models; Under Submission ICLR 2026<br>
             AIware: Proceedings of the 1st ACM International Conference on AI-Powered Software 2024 (co-located with FSE 2024)<br>
         <a class="tag" href="https://www.microsoft.com/en-us/research/blog/rubicon-evaluating-conversations-between-humans-and-ai-systems/" target="_blank">blog</a>
         <span class="tagsep">|</span>
-        <a class="tag" href="https://www.microsoft.com/en-us/research/uploads/prod/2024/05/RUBICON__Rubric_Based_Evaluation_of_Domain_Specific_Human_AI_Conversations-10.pdf" target="_blank">pdf</a>
+        <a class="tag" href="https://dl.acm.org/doi/10.1145/3664646.3664778" target="_blank">pdf</a>
         <span class="tagsep">|</span>
-        <a class="tag" href="https://www.microsoft.com/en-us/research/publication/rubicon-rubric-based-evaluation-of-domain-specific-human-ai-conversations/" target="_blank">web</a>
     </p>
 </div>
 
