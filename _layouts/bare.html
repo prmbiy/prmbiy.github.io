@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      body {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 60px 24px 120px;
+        text-align: left;
+        color: #2a2a2a;
+        font-size: 16px;
+        line-height: 1.65;
+      }
+      .wrapper { width: auto; margin: 0; }
+      section { width: auto; float: none; padding: 0; }
+      h1 { font-size: 30px; line-height: 1.25; margin: 0 0 16px; }
+      h2 { font-size: 21px; margin: 44px 0 14px; }
+      img { display: block; margin: 28px auto; }
+      pre { font-size: 13px; line-height: 1.5; }
+      code { font-size: 13.5px; }
+      hr { margin: 36px 0; }
+      .footnotes { font-size: 13.5px; color: #555; margin-top: 48px; }
+      .footnotes hr { margin-bottom: 20px; }
+      @media (max-width: 600px) {
+        body { padding: 32px 18px 80px; }
+        h1 { font-size: 25px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
