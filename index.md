@@ -33,12 +33,12 @@ Check out my [CV]({{ '/assets/resume_param_biyani_oct_2026.pdf' | relative_url }
 
 <div>
     <p class="paper">
-        <a class="paperlink" href="https://drive.google.com/file/d/1fxsaL4KQ51mWjKeGxE8y5Lmc_3HwQG--/view?usp=sharing" target="_blank">
+        <a class="paperlink" href="https://arxiv.org/abs/2610.35486" target="_blank">
             <span class="papertitle">ShutdownMod: Turning Any Trajectory into a Shutdown Evaluation</span>
         </a><br>
         <span class="thisauthor">Param Biyani</span>, Divij Chawla, Elliott Thornley, Christos Ziakas<br>
         <span class="confshort" style="color: black;">Interpreting Agent Behavior at NeurIPS 2026</span> <br>
-        <a class="tag" href="https://drive.google.com/file/d/1fxsaL4KQ51mWjKeGxE8y5Lmc_3HwQG--/view?usp=sharing" target="_blank">pdf</a>
+        <a class="tag" href="https://arxiv.org/abs/2610.35486" target="_blank">pdf</a>
     </p>
 </div>
 
